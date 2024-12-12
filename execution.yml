@@ -1,5 +1,5 @@
 execution:
-- concurrency: 100
+- concurrency: 200
   ramp-up: 1m
   hold-for: 5m
   scenario: quick-test
